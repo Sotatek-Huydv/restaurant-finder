@@ -1,6 +1,6 @@
 # restaurant-finder
 
-Link: restaurant-finder-rdt6p3u0v-sotatek-huydv.vercel.app
+Link: https://restaurant-finder-8cy8tqb39-sotatek-huydv.vercel.app
 
 ## Installation and Usage
 
