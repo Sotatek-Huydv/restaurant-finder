@@ -1,6 +1,6 @@
 # restaurant-finder
 
-Link: https://restaurant-finder-8cy8tqb39-sotatek-huydv.vercel.app
+Link: https://restaurant-finder-orcin.vercel.app/
 
 ## Installation and Usage
 
