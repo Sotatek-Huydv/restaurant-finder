@@ -12,8 +12,8 @@ const { REACT_APP_CLIENT_ID, REACT_APP_CLIENT_SECRET } = process.env;
 function App() {
   const initState = {
     query: "",
-    lat: 21.020834217027996,
-    lng: 105.79101014046,
+    lat: 35.664298165078314,
+    lng: 139.73791819301854,
     radius: 1000,
     v: 20182507,
     venues: [],
